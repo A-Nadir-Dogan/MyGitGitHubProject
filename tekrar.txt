@@ -1,3 +1,6 @@
 git kullanmak developerlar için hayat kurtarıcı.
 version1
 --------------------
+yeni özelikkkler eklendi.
+version2
+----------------------------
